@@ -17,8 +17,7 @@
 <br><br>
   <img height="200px" src="../assets/imgs-desafios-js/desafio01.png">
   
-
-### Você pode acessar o código deste desafio clicando [neste link]()
+### Você pode acessar o código deste desafio clicando [neste link](https://github.com/viviansanchez/dio-potencia-tech-angular-developer-desafios-de-codigo/blob/main/Desafios%20-%20Exercite%20sua%20L%C3%B3gica%20com%20Desafios%20de%20C%C3%B3digo%20em%20JavaScript/tempo-estimado-entrega.js)
 <hr>
 
 ## Desafio 02: Calcular o Preço final de um Pedido
@@ -40,7 +39,7 @@
   <img height="300px" src="../assets/imgs-desafios-js/desafio02.png">
 
 
-### Você pode acessar o código deste desafio clicando [neste link]()
+### Você pode acessar o código deste desafio clicando [neste link](https://github.com/viviansanchez/dio-potencia-tech-angular-developer-desafios-de-codigo/blob/main/Desafios%20-%20Exercite%20sua%20L%C3%B3gica%20com%20Desafios%20de%20C%C3%B3digo%20em%20JavaScript/calcular-preco-final.js)
 <hr>
 
 ## Desafio 03: Ganhe uma Sobremesa Grátis!
@@ -61,7 +60,7 @@
 <br><br>
   <img height="200px" src="../assets/imgs-desafios-js/desafio03.png">
 
-### V pode acessar o código deste desafio clicando [neste link]()
+### V pode acessar o código deste desafio clicando [neste link](https://github.com/viviansanchez/dio-potencia-tech-angular-developer-desafios-de-codigo/blob/main/Desafios%20-%20Exercite%20sua%20L%C3%B3gica%20com%20Desafios%20de%20C%C3%B3digo%20em%20JavaScript/ganhe-sobremesa.js)
 <hr>
 
 ## Desafio 04: Identificando Pedidos Veganos
@@ -84,7 +83,7 @@
 <br><br>
   <img height="300px" src="../assets/imgs-desafios-js/desafio04.png">
 
-### Você pode acessar o código deste desafio clicando [neste link]()
+### Você pode acessar o código deste desafio clicando [neste link](https://github.com/viviansanchez/dio-potencia-tech-angular-developer-desafios-de-codigo/blob/main/Desafios%20-%20Exercite%20sua%20L%C3%B3gica%20com%20Desafios%20de%20C%C3%B3digo%20em%20JavaScript/identificando-pedidos-veganos.js)
 <hr>
 
 ## Desafio 05: Gerenciamento de Pedidos de Comida Online
@@ -104,5 +103,5 @@
 <br><br>
   <img height="300px" src="../assets/imgs-desafios-js/desafio05.png">
 
-### Você pode acessar o código deste desafio clicando [neste link]()
+### Você pode acessar o código deste desafio clicando [neste link](https://github.com/viviansanchez/dio-potencia-tech-angular-developer-desafios-de-codigo/blob/main/Desafios%20-%20Exercite%20sua%20L%C3%B3gica%20com%20Desafios%20de%20C%C3%B3digo%20em%20JavaScript/gerenciamento-pedido-online.js)
 <hr>

@@ -29,7 +29,7 @@ Total: R$totalCalculado
   <img height="300px" src="../assets/imgs-desafios-json/desafio01.png">
   
 
-### Você pode acessar o código deste desafio clicando [neste link]()
+### Você pode acessar o código deste desafio clicando [neste link](https://github.com/viviansanchez/dio-potencia-tech-angular-developer-desafios-de-codigo/blob/main/Desafios%20-%20Explorando%20JSON%20na%20Pr%C3%A1tica%20com%20Desafios%20de%20C%C3%B3digo/dio-delivery.js)
 <hr>
 
 ## Desafio 02: Acompanhando os Pedidos
@@ -59,7 +59,7 @@ Tel: pedido.cliente.telefone
   <img height="300px" src="../assets/imgs-desafios-json/desafio02.png">
   
 
-### Você pode acessar o código deste desafio clicando [neste link]()
+### Você pode acessar o código deste desafio clicando [neste link](https://github.com/viviansanchez/dio-potencia-tech-angular-developer-desafios-de-codigo/blob/main/Desafios%20-%20Explorando%20JSON%20na%20Pr%C3%A1tica%20com%20Desafios%20de%20C%C3%B3digo/acompanhando-pedidos.js)
 <hr>
 
 ## Desafio 03: Comparando os Pedidos
@@ -93,7 +93,7 @@ Caso contrário, o programa deverá retornar a mensagem:
   <img height="300px" src="../assets/imgs-desafios-json/desafio03.png">
   
 
-### Você pode acessar o código deste desafio clicando [neste link]()
+### Você pode acessar o código deste desafio clicando [neste link](https://github.com/viviansanchez/dio-potencia-tech-angular-developer-desafios-de-codigo/blob/main/Desafios%20-%20Explorando%20JSON%20na%20Pr%C3%A1tica%20com%20Desafios%20de%20C%C3%B3digo/comparando-pedidos.js)
 <hr>
 
 ## Desafio 04: Avaliando Restaurantes
@@ -114,7 +114,7 @@ Restaurante: restaurante.nome, Avaliação: restaurante.avaliacao
 <br><br>
   <img height="300px" src="../assets/imgs-desafios-json/desafio04.png">
   
-### Você pode acessar o código deste desafio clicando [neste link]()
+### Você pode acessar o código deste desafio clicando [neste link](https://github.com/viviansanchez/dio-potencia-tech-angular-developer-desafios-de-codigo/blob/main/Desafios%20-%20Explorando%20JSON%20na%20Pr%C3%A1tica%20com%20Desafios%20de%20C%C3%B3digo/avaliando-restaurantes.js)
 <hr>
 
 ## Desafio 05: Encontrando o Pedido mais Próximo
@@ -135,5 +135,5 @@ O pedido mais próximo é o de pedido.nome, do tipo pedido.tipo
 <br><br>
   <img height="300px" src="../assets/imgs-desafios-json/desafio05.png">
   
-### Você pode acessar o código deste desafio clicando [neste link]()
+### Você pode acessar o código deste desafio clicando [neste link](https://github.com/viviansanchez/dio-potencia-tech-angular-developer-desafios-de-codigo/blob/main/Desafios%20-%20Explorando%20JSON%20na%20Pr%C3%A1tica%20com%20Desafios%20de%20C%C3%B3digo/pedido-mais-proximo.js)
 <hr>
